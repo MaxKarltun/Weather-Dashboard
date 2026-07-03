@@ -1,39 +1,30 @@
-# Weather-Dashboard
+# Weather Dashboard
 
-__________________________________________________________________________________________________________________________________________________________________
-![Ss](https://karltunmoreno.github.io/My-Portfolio/assets/images/weatherapppic.jpg)
+![Weather Dashboard Preview](https://karltunmoreno.github.io/My-Portfolio/assets/images/weatherapppic.jpg)
 
+A travel-focused weather app that lets you search any city and view current conditions alongside a 5-day forecast — with search history saved for quick access.
 
-________________________________________________________________________________________________
+🔗 **Live App:** [maxkarltun.github.io/Weather-Dashboard](https://maxkarltun.github.io/Weather-Dashboard/)
 
-LINK:  https://maxkarltun.github.io/Weather-Dashboard/
+---
 
-________________________________________________________________________________________________
+## Features
+
+- Search any city to get current and 5-day forecast weather data
+- Displays city name, date, weather icon, temperature, humidity, and wind speed
+- UV index shown with a color indicator (favorable / moderate / severe)
+- Search history saved so you can revisit previous cities in one click
+
+---
 
 ## User Story
-AS A traveler
-I WANT to see the weather outlook for multiple cities
-SO THAT I can plan a trip accordingly.
 
-## Criteria
+> As a traveler, I want to see the weather outlook for multiple cities so that I can plan a trip accordingly.
 
-GIVEN a weather dashboard with form inputs
-WHEN I search for a city
-THEN I am presented with current and future conditions for that city and that city is added to the search history
-WHEN I view current weather conditions for that city
-THEN I am presented with the city name, the date, an icon representation of weather conditions, the temperature, the humidity, the wind speed, and the UV index
-WHEN I view the UV index
-THEN I am presented with a color that indicates whether the conditions are favorable, moderate, or severe
-WHEN I view future weather conditions for that city
-THEN I am presented with a 5-day forecast that displays the date, an icon representation of weather conditions, the temperature, the wind speed, and the humidity
-WHEN I click on a city in the search history
-THEN I am again presented with current and future conditions for that city
+---
 
-________________________________________________________________________________________________________________________________________________________________
-
-## Tech Used 
+## Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white&style=for-the-badge)
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=d1b01f)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1C.svg?logo=javascript&logoColor=black&style=for-the-badge)
