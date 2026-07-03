@@ -7,7 +7,7 @@ A travel-focused weather app that lets you search any city and view current cond
 🔗 **Live App:** [maxkarltun.github.io/Weather-Dashboard](https://maxkarltun.github.io/Weather-Dashboard/)
 # Weather Dashboard
 
-![Weather Dashboard Preview](https://karltunmoreno.github.io/My-Portfolio/assets/images/weatherapppic.jpg)
+
 
 A travel-focused weather app that lets you search any city and view current conditions alongside a 5-day forecast — with search history saved for quick access.
 
